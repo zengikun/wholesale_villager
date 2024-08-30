@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.caixukun.wholesale_villager.mixin",
+  "refmap": "wholesale_villager.refmap.json",
+  "mixins": [
+    "MixinVillage"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
